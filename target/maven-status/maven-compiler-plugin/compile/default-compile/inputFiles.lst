@@ -1,0 +1,12 @@
+D:\family-spend-backend\src\main\java\com\family\spend\model\Member.java
+D:\family-spend-backend\src\main\java\com\family\spend\repository\ExpenseRepository.java
+D:\family-spend-backend\src\main\java\com\family\spend\repository\MemberRepository.java
+D:\family-spend-backend\src\main\java\com\family\spend\model\Payment.java
+D:\family-spend-backend\src\main\java\com\family\spend\service\DbSyncService.java
+D:\family-spend-backend\src\main\java\com\family\spend\controller\MessengerController.java
+D:\family-spend-backend\src\main\java\com\family\spend\FamilySpendApplication.java
+D:\family-spend-backend\src\main\java\com\family\spend\repository\PaymentRepository.java
+D:\family-spend-backend\src\main\java\com\family\spend\model\Expense.java
+D:\family-spend-backend\src\main\java\com\family\spend\controller\GeminiController.java
+D:\family-spend-backend\src\main\java\com\family\spend\dto\DbDataDto.java
+D:\family-spend-backend\src\main\java\com\family\spend\controller\DbController.java
