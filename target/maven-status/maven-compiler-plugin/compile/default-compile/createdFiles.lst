@@ -1,12 +1,1 @@
-com\family\spend\controller\DbController.class
-com\family\spend\dto\DbDataDto.class
 com\family\spend\FamilySpendApplication.class
-com\family\spend\controller\MessengerController.class
-com\family\spend\controller\GeminiController.class
-com\family\spend\model\Expense.class
-com\family\spend\repository\ExpenseRepository.class
-com\family\spend\repository\PaymentRepository.class
-com\family\spend\service\DbSyncService.class
-com\family\spend\model\Payment.class
-com\family\spend\repository\MemberRepository.class
-com\family\spend\model\Member.class
